@@ -1,6 +1,6 @@
 # Projeto Capstone - Nanodegree Engenheiro de Machine Learning
-Projeto para obtenção de formação no Nanodegree de Engenheiro de Mavhine Learning da Udacity
-
+Projeto para obtenção de formação no Nanodegree de Engenheiro de Machine Learning da Udacity
+Neste projeto iremos analisar as empresas de saneamento quanto ao relacionamento entre a estrutura de propriedade e a eficiência operacional obtida por diversos atributos. 
 
 Bibliotecas necessárias para o projeto
 
